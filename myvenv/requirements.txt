@@ -9,7 +9,7 @@ post==0.0.0
 public==0.0.0
 query-string==0.0.0
 request==0.0.0
-requests==2.18.4
+requests==2.20.0
 setupfiles==0.0.50
 telepot==12.3
 urllib3==1.24.2
